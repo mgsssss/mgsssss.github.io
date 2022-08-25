@@ -1,10 +1,10 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "Jekyll 고맙다 ! 너 덕에 블로그 만든다."
 ---
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, 이건 필수지
 
-I hope you like it!
+I hope you like it! <- 고마워 !!! ㅋ
