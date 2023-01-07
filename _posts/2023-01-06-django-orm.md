@@ -4,9 +4,8 @@ title: django orm
 categories: django
 tag: [python, django]
 ---
-# 
-# Django ORM n + 1
-## ORM n + 1 문제는 무엇인가 ? 
+
+# Django ORM n + 1 문제는 무엇인가 ? 
 
 ### Djnago orm의 장점
 1. 객체 지향적인 코드로 인해 더 직관적이고 비즈니스 로직에 더 집중할 수 있게 도와준다.
