@@ -3,6 +3,7 @@ layout: single
 title: python (list, dictionary)의 효율적인 활용
 categories: python
 tag: [python]
+toc: true
 ---
 
 # python (list, dictionary)의 효율적인 활용
