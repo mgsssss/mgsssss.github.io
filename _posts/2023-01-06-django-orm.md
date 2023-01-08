@@ -3,6 +3,7 @@ layout: single
 title: django orm
 categories: django
 tag: [python, django]
+toc: true
 ---
 
 # Django ORM n + 1 문제는 무엇인가 ? 
