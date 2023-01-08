@@ -2,7 +2,9 @@
 layout: single
 title: django orm
 categories: django
-tag: [python, django]
+tags: 
+ - python
+ - django
 toc: true
 ---
 
