@@ -2,7 +2,7 @@
 layout: single
 title: python (list, dictionary)의 효율적인 활용
 categories: python
-tag: [python]
+tags: [python]
 toc: true
 ---
 
