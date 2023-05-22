@@ -10,7 +10,7 @@ toc: true
 
 # Django rest Frame Work 를 시작하며
 
-<img src="../assets/images/drf.png" width="100%" height="100%" title="Github_Logo"/>
+<img src="https://raw.githubusercontent.com/mgsssss/mgsssss.github.io/master/assets/images/drf.png" width="100%" height="100%" title="Github_Logo"/>
 
 
 ## DRF ?
@@ -100,7 +100,7 @@ urlpatterns = [
 
 ## 이제 'python manage.py runserver' 를 shell 에 입력하고 -> http://127.0.0.1:8000/example/hello/
 
-<img src="../assets/images/helloapi.png" width="100%" height="100%" title="Github_Logo"/>
+<img src="https://mgsssss.github.io/assets/images/helloapi.png" width="100%" height="100%" title="Github_Logo"/>
 
 <pre>짜잔 !!! 상당히 멋진 화면이 나온다. 드디어 api 가 동작하고 있는 것이다.
 
