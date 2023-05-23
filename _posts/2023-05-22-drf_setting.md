@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Django rest frame work ### 1
+title: Django rest frame work setting ### 1
 categories: django
 tags: 
  - python
