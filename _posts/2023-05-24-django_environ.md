@@ -14,7 +14,7 @@ Django를 사용하다 보면 git에 settings.py을 올려야 하는 경우가 �
 정말 좋은 방법은 Django-environ package를 활용하는 것이다.
 
 .env file에 중요한 정보를 적어놓고 settings.py에서 read 해서 쓰면
-환경별로도 관리 할 수
+환경별로도 관리 할 수 있다.
 ```bash
 pip install django-environ
 ```
