@@ -182,7 +182,7 @@ $ dcoker-compose down
 ```
 
 
-|command|설명|ex|
+|명령어|설명|예시|
 |------|---|---|
 |up|컨테이너 생성/시작|$docker-compose up|
 |ps|컨테이너 목록 표시|$docker-compose ps|
