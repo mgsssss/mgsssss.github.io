@@ -180,6 +180,25 @@ $ docker-compose sacale db=2
 $ dcoker-compose down 
 # 동작중인 컨테이너 들의 일괄 중지 및 삭제
 ```
+
+
+|command|설명|ex|
+|------|---|---|
+|up|컨테이너 생성/시작|$docker-compose up|
+|ps|컨테이너 목록 표시|$docker-compose ps|
+|logs|컨테이너 로그 출력|$docker-compose logs|
+|run|컨테이너 실행|$docker-compose run|
+|start|컨테이너 시작|$docker-compose start|
+|stop|컨테이너 정지|$docker-compose stop|
+|restart|컨테이너 재시작|$docker-compose restart|
+|pause|컨테이너 일시 정지|$docker-compose pause|
+|unpause|컨테이너 재개|$docker-compose unpause|
+|port|공개 포트 번호 표시|$docker-compose port|
+|config|구성 확인|$docker-compose config|
+|kill|실행 중인 컨테이너 강제 정지| $docker-compose kill|
+|rm|컨테이너 삭제|$docker-compose rm|
+|down|리소스 삭제|$docker-compose down|
+
 이런 식으로 관리 할 수 있다.
 일반적인 docker 를 사용하다 docker compose 사용하면 신세계가 열린 기분이다.
 너무 편해서 ...
