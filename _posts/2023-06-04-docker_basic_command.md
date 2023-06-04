@@ -168,10 +168,17 @@ docker compose 의 django 기본 sample 이다.
 
 ### build 및 운영
 ```bash
-$ docker-compose up -d # build & run 여기서 -d 는 background mode
-$ dcoker-compose ps # 동작 중인 컨테이너들의 현재 상태 확인
-$ docker-compose sacale db=2 # docker compose 의 정의된 service의 동작중인 서버를 늘릴 수 있다.
-$ dcoker-compose down # 동작중인 컨테이너 들의 일괄 중지 및 삭제
+$ docker-compose up -d 
+# build & run 여기서 -d 는 background mode
+
+$ dcoker-compose ps 
+# 동작 중인 컨테이너들의 현재 상태 확인
+
+$ docker-compose sacale db=2 
+# docker compose 의 정의된 service의 동작중인 서버를 늘릴 수 있다.
+
+$ dcoker-compose down 
+# 동작중인 컨테이너 들의 일괄 중지 및 삭제
 ```
 이런 식으로 관리 할 수 있다.
 일반적인 docker 를 사용하다 docker compose 사용하면 신세계가 열린 기분이다.
