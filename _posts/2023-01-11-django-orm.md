@@ -6,7 +6,6 @@ tags:
  - python
  - django
 toc: true
-author_profile: false
 ---
 
 # SQL을 이해하고 사용하는 Django ORM
