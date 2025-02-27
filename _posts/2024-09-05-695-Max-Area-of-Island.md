@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 695. Max Area of Island
+title: leetcode 695 Max Area of Island
 categories: CodingTest
 tags: [CodingTest]
 toc: true
