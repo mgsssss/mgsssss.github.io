@@ -1,6 +1,10 @@
 ---
 layout: single
 title: os - 프로세스와 쓰레드의 차이점?
+category: ['os']
+tag: ['os']
+sidebar:
+    nav: "counts"
 ---
 
 # process 는 중요하다.

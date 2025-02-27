@@ -6,6 +6,8 @@ tags:
  - python
  - django
 toc: true
+sidebar:
+    nav: "counts"
 ---
 
 # Django ORM n + 1 문제는 무엇인가 ? 

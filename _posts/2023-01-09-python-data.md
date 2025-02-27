@@ -4,6 +4,8 @@ title: python (list, dictionary)의 효율적인 활용
 categories: python
 tags: [python]
 toc: true
+sidebar:
+    nav: "counts"
 ---
 
 # python (list, dictionary)의 효율적인 활용

@@ -5,6 +5,8 @@ categories: django
 tags: 
  - django
 toc: true
+sidebar:
+    nav: "counts"
 ---
 
 # Django-environ package를 활용한 환경변수 관리

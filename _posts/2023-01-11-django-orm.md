@@ -6,6 +6,8 @@ tags:
  - python
  - django
 toc: true
+sidebar:
+    nav: "counts"
 ---
 
 # SQL을 이해하고 사용하는 Django ORM

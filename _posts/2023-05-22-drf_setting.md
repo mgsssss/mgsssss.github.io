@@ -6,6 +6,8 @@ tags:
  - python
  - django
 toc: true
+sidebar:
+    nav: "counts"
 ---
 
 # Django rest Frame Work 를 시작하며

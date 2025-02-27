@@ -13,4 +13,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
- 
+counts:
+  - title: "Cagegory"
+    use: true
+  - title: Tag"
+    use: true

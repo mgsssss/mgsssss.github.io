@@ -7,6 +7,8 @@ tags:
  - django
  - DRF
 toc: true
+sidebar:
+    nav: "counts"
 ---
 
 # Pure Django와 Django REST Framework의 차이점

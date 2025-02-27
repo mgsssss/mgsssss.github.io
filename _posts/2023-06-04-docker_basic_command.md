@@ -4,6 +4,8 @@ title: Docker compose 가 뭘까 ?
 categories: Docker
 tags: [Docker]
 toc: true
+sidebar:
+    nav: "counts"
 ---
 
 # Docker compose

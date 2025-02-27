@@ -4,6 +4,8 @@ title: Docker container 기초 명령어
 categories: Docker
 tags: [Docker]
 toc: true
+sidebar:
+    nav: "counts"
 ---
 
 
