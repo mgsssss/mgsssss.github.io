@@ -1,3 +1,13 @@
+---
+layout: single
+title: LeetCode 875. Koko Eating Bananas
+categories: CodingTest
+tags: [CodingTest]
+toc: true
+sidebar:
+    nav: "counts"
+---
+
 # 🍌 LeetCode 875. Koko Eating Bananas
 
 ## 📝 문제 설명
